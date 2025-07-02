@@ -1,1 +1,1 @@
-﻿[assembly: InternalsVisibleTo("vpm-package.editor")]
+﻿[assembly: InternalsVisibleTo("numeira.li-prop-auto-physbones-toggle.editor")]
